@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Evaluacion</string>
+    <string name="btn_new_student">NUEVO ESTUDIANTE</string>
+    <string name="btn_list_studens">LISTA ESTUDIANTES</string>
+    <string name="btn_dev_info">MIS DATOS</string>
+    <string name="lbl_name">Nombre: </string>
+    <string name="lbl_code">Codigo: </string>
+    <string name="lbl_subject">Materia: </string>
+    <string name="lbl_partial1">Primer Parcial: </string>
+    <string name="lbl_partial2">Segundo Parcial: </string>
+    <string name="lbl_partial3">Tercer Parcial: </string>
+    <string name="btn_save">SAVE</string>
+
+
+    <string name="lbl_dev">Desarrollador</string>
+    <string name="lbl_name_dev">Mario Isaac Nerio Ceren</string>
+    <string name="lbl_code_uni">Codigo</string>
+    <string name="lbl_dev_code">NC17-I04-001</string>
+</resources>
